@@ -11,6 +11,7 @@ public class MemberDto {
     }
 
     public String getMyName() {
+
         return myName;
     }
 
