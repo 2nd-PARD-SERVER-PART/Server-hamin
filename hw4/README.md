@@ -53,6 +53,7 @@
 <img src="assets/allPost1.png">
 <img src="assets/allPost2.png">
 /api/v1/posting/all의 전체 response
+
 ```json
 {
   "result": true,
@@ -132,6 +133,7 @@
 <img src="assets/allPost1.png">
 <img src="assets/allPost2.png">
 게시물을 지워도 유저가 삭제되지 않는다.
+
 ```json
 {
   "result": true,
@@ -227,3 +229,4 @@
     }
   ]
 }
+```
