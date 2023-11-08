@@ -4,6 +4,7 @@ import com.pard.hw4.dto.response.ResponseDto;
 import com.pard.hw4.dto.user.request.UserCreateRequestDto;
 import com.pard.hw4.dto.user.request.UserUpdateRequestDto;
 import com.pard.hw4.dto.user.response.UserResponseDto;
+import com.pard.hw4.entity.posting.PostingEntity;
 import com.pard.hw4.entity.user.UserEntity;
 import com.pard.hw4.repository.user.UserRepository;
 import jakarta.transaction.Transactional;
