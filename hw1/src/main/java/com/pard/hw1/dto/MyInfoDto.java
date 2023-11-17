@@ -1,4 +1,4 @@
-package com.pard.hw1st.dto;
+package com.pard.hw1.dto;
 
 public class MyInfoDto {
     private final String major;       // 전공

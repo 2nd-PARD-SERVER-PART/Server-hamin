@@ -4,6 +4,7 @@ import com.pard.hw5.entity.user.UserEntity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.springframework.context.annotation.Bean;
 
 @Data
 @NoArgsConstructor

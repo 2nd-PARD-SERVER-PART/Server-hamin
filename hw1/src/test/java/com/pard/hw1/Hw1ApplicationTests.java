@@ -1,10 +1,10 @@
-package com.pard.hw1st;
+package com.pard.hw1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Hw1stApplicationTests {
+class Hw1ApplicationTests {
 
 	@Test
 	void contextLoads() {

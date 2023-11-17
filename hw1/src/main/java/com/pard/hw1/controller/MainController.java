@@ -1,9 +1,9 @@
-package com.pard.hw1st.controller;
+package com.pard.hw1.controller;
 
 
 // TODO: MainController를 만들어주세요.
 
-import com.pard.hw1st.dto.MyInfoDto;
+import com.pard.hw1.dto.MyInfoDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

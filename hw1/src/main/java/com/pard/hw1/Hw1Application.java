@@ -1,13 +1,13 @@
-package com.pard.hw1st;
+package com.pard.hw1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Hw1stApplication {
+public class Hw1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Hw1stApplication.class, args);
+		SpringApplication.run(Hw1Application.class, args);
 	}
 
 }
